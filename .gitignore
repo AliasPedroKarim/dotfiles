@@ -1,10 +1,15 @@
+# Ignore All Directories And Files
 *
 */
-!.gitgnore
+
+# Execept specific directory
 !.config/i3/*
 !.script/*
 !background/*
 
+
+# Execept Specific file
+!.gitgnore
 !.zshrc
 !.xprofile
 !.xinitrc
