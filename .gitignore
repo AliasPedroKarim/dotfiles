@@ -2,9 +2,15 @@
 *
 */
 
-# Execept specific directory
+# Execept speific directory
+!.config
+.config/*
 !.config/i3/*
+
+!.script
 !.script/*
+
+!background
 !background/*
 
 
