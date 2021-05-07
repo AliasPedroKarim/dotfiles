@@ -5,6 +5,7 @@
 # Execept speific directory
 !.config
 .config/*
+!.config/i3
 !.config/i3/*
 
 !.script
