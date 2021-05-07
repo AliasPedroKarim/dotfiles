@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sh .script/xrandr_config.sh
