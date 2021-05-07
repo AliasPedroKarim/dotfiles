@@ -2,7 +2,7 @@
 
 # i3 config in ~/.config/i3/config :
 
-bg_bar_color="#282A36"
+bg_bar_color="#2b2626"
 
 # Print a left caret separator
 # @params {string} $1 text color, ex: "#FF0000"
