@@ -2,15 +2,14 @@
 ![](https://ascencia.is-inside.me/sVWyeZD9.png)
 
 ## Introduction
----
 Hmm a dotfiles.
 
 ## First running and install all dependence
----
+By running this script, you can install all necessary dependencies.
+
 `sh ~/.script/myinit.sh`
 
 ## Details
----
 - **OS:** Arch Linux x86_64
 - **Kernel:** 5.12.1-arch1-1
 - **Terminal:** konsole
@@ -21,7 +20,6 @@ Hmm a dotfiles.
 - **Icons:** breeze-dark [Plasma], breeze-dark [GTK2/3]
 
 ## Dependencies
----
 Dependency          | Usage
 ------------------- | -------------------
 plasma              | Desktop Environment
@@ -32,12 +30,11 @@ oh-my-zsh           | Shell (additional with zsh)
 feh                 | Background Manager
 
 ## Additionals
----
-### oh-my-zsh, the additional plugins
+### oh-my-zsh, additional plugins
 - [history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
 - colored-man-pages (is built-in)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) 
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 
 # Hmm
-end...
+end ?
