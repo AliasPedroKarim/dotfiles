@@ -8,6 +8,10 @@
 !.config/i3
 !.config/i3/*
 
+.config/i3/*
+!.config/i3/bar
+!.config/i3/bar/*
+
 !.script
 !.script/*
 
