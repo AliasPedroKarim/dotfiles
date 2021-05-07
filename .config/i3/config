@@ -221,6 +221,9 @@ bar {
 exec --no-startup-id wmctrl -c Plasma
 exec --no-startup-id feh --bg-center --bg-fill --randomize ~/background/*
 
+# Compton
+exec_always --no-startup-id "killall -q compton; compton"
+
 # ========== windows configuration ==========
 
 for_window [title="Desktop — Plasma"] kill; floating enable; border none
@@ -237,9 +240,9 @@ for_window [class="(?i)*nextcloud*"] floating disable
 for_window [class="plasmashell" window_type="notification"] floating enable, border none, move position 1450px 20px
 
 # change borders
-# bindsym $mod+y border none
-# bindsym $mod+u border pixel 1
-# bindsym $mod+i border normal
+bindsym $mod+y border none
+bindsym $mod+u border pixel 1
+bindsym $mod+i border normal
 
 # or
 

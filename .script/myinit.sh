@@ -36,3 +36,17 @@ pacman -S --noconfirm python python-pip htop
 pacman -S --noconfirm pamixer pacman-contrib ttf-font-awesome alsa-utils
 
 pip3 install psutil --user
+
+
+# Install compton-tryone-git
+pacman -S --needed --noconfirm make gcc
+
+cd ~
+git clone https://github.com/tryone144/compton.git
+cd compton
+
+make
+make install
+
+cd ..
+rm -rf compton
