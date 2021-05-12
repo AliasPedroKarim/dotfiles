@@ -2,7 +2,9 @@
 ![](https://ascencia.is-inside.me/sVWyeZD9.png)
 
 ## Introduction
-[![Hits-of-Code](https://hitsofcode.com/github/AliasPedroKarim/dotfiles)](https://hitsofcode.com/github/AliasPedroKarim/dotfiles/view)
+[![One more](https://hitsofcode.com/github/AliasPedroKarim/dotfiles)](https://hitsofcode.com/github/AliasPedroKarim/dotfiles/view)
+
+
 Hmm a dotfiles.
 
 ## First running and install all dependence
