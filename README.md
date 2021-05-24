@@ -2,7 +2,7 @@
 ![](https://ascencia.is-inside.me/sVWyeZD9.png)
 
 ## Introduction
-[![One more](https://hitsofcode.com/github/AliasPedroKarim/dotfiles)](https://hitsofcode.com/github/AliasPedroKarim/dotfiles/view)
+[![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AliasPedroKarim.dotfiles&color=1D70B8&logo=GitHub&logoColor=FFFFFF&style=flat-square)](https://github.com/AliasPedroKarim/dotfiles)
 
 
 Hmm a dotfiles.
