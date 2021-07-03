@@ -7,7 +7,7 @@
 
 Hmm a dotfiles.
 
-## First running and install all dependence
+## First running and install all dependences
 By running this script, you can install all necessary dependencies.
 
 `sh ~/.script/myinit.sh`
