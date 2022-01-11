@@ -1,0 +1,1 @@
+@reboot /home/ascencia/.script/on_restart.sh
