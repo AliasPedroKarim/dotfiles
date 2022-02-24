@@ -13,4 +13,4 @@ screen -S "portfolio" -dm zsh -c "cd /home/ascencia/Portfolio; npm run prod"
 screen -S "prometheus" -dm zsh -c "cd /home/ascencia/metrics/prometheus-2.31.1.linux-amd64; ./prometheus"
 
 # Run Ascencia bot
-screen -S "ascencia" -dm zsh -c "cd /home/ascencia/Ascencia; sudo npm run start:xvfb"
+screen -S "ascencia" -dm zsh -c "cd /home/ascencia/Ascencia; sudo yarn run start:xvfb"
