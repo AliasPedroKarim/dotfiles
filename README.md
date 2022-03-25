@@ -1,5 +1,5 @@
 ## Preview
-![](https://ascencia.is-inside.me/sVWyeZD9.png)
+![](https://img.ascencia.re/gzRCECpd.png)
 
 ## Introduction
 [![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=AliasPedroKarim.dotfiles&color=1D70B8&logo=GitHub&logoColor=FFFFFF&style=flat-square)](https://github.com/AliasPedroKarim/dotfiles)
